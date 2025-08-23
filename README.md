@@ -72,4 +72,13 @@ Adding Machine Learning models for fraud detection & predictions.
 Expanding dataset for real-world banking case studies.
 
 ⭐ If you find this project useful, don’t forget to star this repo!
--
+
+## 👤 Author
+
+**Elluri Imran**  
+📌 [GitHub Profile](https://github.com/Elluriimran)
+
+---
+
+✨ *This project demonstrates how Banking data can be transformed into actionable insights using multiple BI tools.*
+

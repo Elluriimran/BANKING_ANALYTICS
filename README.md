@@ -35,22 +35,8 @@ Excel – Data cleaning, pivot charts, dashboard creation.
 Power BI – Interactive analytics and visualization.
 
 Tableau – Advanced data visualization and insights.
-
-BANKING_ANALYTICS/
-│── Excel Dashboards/
-│    ├── Bank Data Analytics.xlsx
-│    ├── Debit and Credit banking_data.xlsx
-│
-│── Power BI/
-│    ├── Powerbi DashBoard.pbix
-│
-│── Tableau/
-│    ├── Tableau DashBoard.twbx
-│
-│── SQL/
-│    ├── SQL Project file.sql
-│
-└── README.md
+- **Preview:**  
+  ![Excel Dashboards](Excel_dashboard.jpg)
 ---
 
 🚀 Applications

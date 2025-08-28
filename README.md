@@ -35,7 +35,8 @@ Excel – Data cleaning, pivot charts, dashboard creation.
 Power BI – Interactive analytics and visualization.
 
 Tableau – Advanced data visualization and insights.
-- **Preview:**  
+- **Preview:**
+- Designed an Excel Banking Dashboard to track loan performance, customer transactions, and account balance trends, providing actionable insights for financial analysis. 
   ![Excel Dashboards](Excel_dashboard.jpg)
 ---
 

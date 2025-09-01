@@ -43,10 +43,10 @@ Tableau – Advanced data visualization and insights.
   ![Excel Dashboards](Visuals.jpg/Excel_dashboard.jpg)
 - **PowerBI:**
 - Developed an interactive Power BI Loan Summary Dashboard with drill-down analysis on loan trends, recovery performance, and borrower demographics to support data-driven financial decisions.
-  ![PowerBI Dashboards](Powerbi_Dashboard.jpg)
+  ![PowerBI Dashboards](Visuals.jpg/Powerbi_Dashboard.jpg)
 - **Tableau:**
 - Designed a Tableau dashboard to analyze debit and credit performance across banks, branches, and customers. The dashboard highlights transaction trends, customer insights, and payment methods to support financial decision-making.
-  ![Tableau Dashboards](Tableau_Dashboard.jpg)
+  ![Tableau Dashboards](Visuals.jpg/Tableau_Dashboard.jpg)
 
 🚀 Applications
 ---

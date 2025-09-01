@@ -40,6 +40,7 @@ Tableau – Advanced data visualization and insights.
 🚀 Preview
 ---
 - **Excel:**
+---
 - Designed an Excel Banking Dashboard to track loan performance, customer transactions, and account balance trends, providing actionable insights for financial analysis. 
   ![Excel Dashboards](Visuals.jpg/Excel_dashboard.jpg)
 - **PowerBI:**
